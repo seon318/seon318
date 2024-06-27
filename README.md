@@ -31,7 +31,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seon318)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2>🔖 CERTIFICATE</h2>
-- SQLD
+- SQLD<br/>
+- 정보처리기사
 
 <h2>😎 CONTACT</h2>
 <p>Gmail : jeongisline@gmail.com</p>
