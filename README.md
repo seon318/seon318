@@ -37,7 +37,3 @@
 <h2>😎 CONTACT</h2>
 <p>Gmail : jeongisline@gmail.com</p>
 <p>Blog : <a href='https://jemarque.tistory.com/'>https://jemarque.tistory.com/</a></p>
-<div style="display:flex; flex-direction:row;">
-  <a href='https://www.instagram.com/definition_of_seon?igsh=MWx4MWhzbmJwd3QxMg%3D%3D&utm_source=qr'> <img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white'> </a>
-  <a href='https://youtube.com/@user-hb4ih8sz3d?si=YPIa5QCRtw7TztF_'> <img src='https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white'></a>
-</div>
